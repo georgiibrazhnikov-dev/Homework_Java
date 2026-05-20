@@ -1,0 +1,30 @@
+=== Log Analysis Report ===
+
+Total logs: 49
+
+Logs by level:
+  ERROR: 20
+  INFO: 18
+  WARN: 11
+
+Time range:
+  Start: 2024-01-01T09:15:23
+  End:   2024-01-07T18:17
+
+Logs per day:
+  2024-01-07: 6
+  2024-01-06: 6
+  2024-01-05: 6
+  2024-01-04: 7
+  2024-01-03: 7
+  2024-01-02: 8
+  2024-01-01: 9
+
+Most error day: 2024-01-05 with 4 errors
+
+Top 5 messages:
+  Disk space low — 5
+  User logged in — 5
+  TimeoutException — 5
+  OutOfMemoryError — 4
+  Application started — 3
